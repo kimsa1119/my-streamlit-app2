@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import requests
 from collections import defaultdict
@@ -229,4 +228,4 @@ if st.button("결과 보기", type="primary"):
                     st.write(f"⭐ 평점: **{vote:.1f}**")
                     st.write(overview)
                     st.caption(f"💡 이 영화를 추천하는 이유: {per_movie_reason}")
-```
+
