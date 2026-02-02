@@ -329,3 +329,4 @@ if st.button("결과 보기", type="primary"):
 st.markdown("---")
 # TMDB FAQ에 나온 표기 요구사항 반영 :contentReference[oaicite:2]{index=2}
 st.caption('This product uses the TMDB API but is not endorsed or certified by TMDB.')
+
